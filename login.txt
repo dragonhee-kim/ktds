@@ -1,2 +1,6 @@
 String id = "kim.dragon.hee"
 String pw = "123"
+
+public String getId(){
+	return this.id;
+}
