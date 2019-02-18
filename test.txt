@@ -3,3 +3,4 @@ Hi 2
 Hi 3
 this function end!
 not end
+stage out
