@@ -1,6 +1,9 @@
-String id = "kim.dragon.hee"
+﻿String id = "kim.dragon.hee"
 String pw = "123"
 
 public String setId(String id){
 	this.id = id;
+}
+public String getId(){
+	return this.id;
 }
